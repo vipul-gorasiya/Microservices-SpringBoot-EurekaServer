@@ -4,8 +4,7 @@
 [Spring-Ms-Eureka-Server](Spring-Ms-Eureka-Server) is an example project for Eureka Server
 
 ## Client services
-[Spring-Ms-Service1](Spring-Ms-Service1) are example services which registers with Eureka server
-
+[Spring-Ms-Service1](Spring-Ms-Service1) and [Spring-Ms-Service2](Spring-Ms-Service2) are example services which registers with Eureka server
 
 ## Steps followed to create Eureka server
 1. Created Springboot app with Spring cloud Eureka server starter
