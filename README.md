@@ -13,7 +13,7 @@
 
 ## Steps followed to create Services
 1. Created Springboot apps with Spring cloud Eureka Discovery and Spring boot web starters. 
-   Web start is optional for POC but if you want to serve endpoints web is required
+   Web starter is optional for POC. But, if you want to serve endpoints; web is required.
 2. Added '@EnableEurekaClient' on application class to enable Eureka client nature on application
 3. Updated properties file to add ureka server url which would be used by services for registration
 
